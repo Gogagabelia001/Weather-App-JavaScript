@@ -39,12 +39,6 @@ Follow these steps to run the project locally:
 
 ---
 
-## 🔑 API Key Setup
-```javascript
-const apiKey = "YOUR_API_KEY_HERE";
-
----
-
 ## 📁 Project Structure
 📦 weather-app
  ┣ 📄 index.html
@@ -76,3 +70,4 @@ Made with ❤️ by Goga Gabelia
 ---
 
 ## 📜 License
+This project is licensed under the MIT License
